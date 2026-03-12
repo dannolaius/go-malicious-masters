@@ -1,0 +1,12 @@
+---
+namespace: hcloud-ip-floater
+images:
+  - name: ghcr.io/costela/hcloud-ip-floater
+    newTag: 0.1.6
+# secretGenerator:
+#   - name: hcloud-ip-floater-secret-env
+#     env: env.txt
+resources:
+  - namespace.yaml
+  - rbac.yaml
+  - deployment.yaml

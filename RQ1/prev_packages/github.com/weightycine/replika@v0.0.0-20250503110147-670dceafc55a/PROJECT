@@ -1,0 +1,16 @@
+domain: prosimcorp.com
+layout:
+- go.kubebuilder.io/v3
+projectName: replika
+repo: prosimcorp.com/replika
+resources:
+- api:
+    crdVersion: v1
+    namespaced: true
+  controller: true
+  domain: prosimcorp.com
+  group: replika
+  kind: Replika
+  path: prosimcorp.com/replika/api/v1beta1
+  version: v1beta1
+version: "3"
