@@ -1,0 +1,147 @@
+rules:
+  - id: go-code-execution-obfuscated-payload
+    languages: [go]
+    severity: ERROR
+    mode: taint
+    options:
+        interfile: true
+    message: "Potential dynamic code execution: suspicious/obfuscated string flows into process execution (exec/syscall/os.StartProcess) or dynamic loaders."
+    metadata:
+      description: >
+        Detects cases where suspicious/obfuscated strings (e.g., long concatenations, array-index assembly, base64/hex decode,
+        HTTP/file reads) flow into execution sinks (exec.Command*, syscall.Exec, os.StartProcess, plugin.Open, JS engines).
+        Includes sink alternatives to catch payloads in different exec.Command argument positions and common execution methods.
+
+    pattern-sources:
+      
+     # Array-index concatenation assigned to a var (syT[67] + syT[32] + ...)
+      - patterns:
+          - pattern-either:
+              - pattern: $VAR := $EXPR
+              - pattern: $VAR = $EXPR
+              - pattern: |
+                  var $VAR = $EXPR
+          - metavariable-regex:
+              metavariable: $EXPR
+              regex: '\w{1,12}\[\d{1,4}\](?:\s*\+\s*\w{1,12}\[\d{1,4}\]){5,}'
+        focus-metavariable: $VAR
+
+
+    pattern-propagators:
+      - pattern: |
+          $TO, $ERR := base64.StdEncoding.DecodeString($FROM)
+        from: $FROM
+        to: $TO
+      - pattern: |
+          $TO, $ERR = base64.StdEncoding.DecodeString($FROM)
+        from: $FROM
+        to: $TO
+
+      - pattern: |
+          $TO, $ERR := base64.URLEncoding.DecodeString($FROM)
+        from: $FROM
+        to: $TO
+      - pattern: |
+          $TO, $ERR = base64.URLEncoding.DecodeString($FROM)
+        from: $FROM
+        to: $TO
+
+      - pattern: |
+          $TO, $ERR := base64.RawStdEncoding.DecodeString($FROM)
+        from: $FROM
+        to: $TO
+      - pattern: |
+          $TO, $ERR = base64.RawStdEncoding.DecodeString($FROM)
+        from: $FROM
+        to: $TO
+
+      - pattern: |
+          $TO, $ERR := hex.DecodeString($FROM)
+        from: $FROM
+        to: $TO
+      - pattern: |
+          $TO, $ERR = hex.DecodeString($FROM)
+        from: $FROM
+        to: $TO
+
+      - pattern: |
+          $TO := string($FROM)
+        from: $FROM
+        to: $TO
+      - pattern: |
+          $TO = string($FROM)
+        from: $FROM
+        to: $TO
+
+      - pattern: |
+          json.Unmarshal($FROM, $TO)
+        from: $FROM
+        to: $TO
+
+    pattern-sinks:
+      - pattern: |
+          plugin.Open($SINK)
+
+      - pattern: |
+          $JS.RunString($SINK)
+      - pattern: |
+          $JS.RunScript($NAME, $SINK)
+
+      - pattern: |
+          eval.Eval($SINK)
+      - pattern: |
+          govaluate.NewEvaluableExpression($SINK)
+
+      - pattern: |
+          syscall.Exec($SINK, ...)
+      - pattern: |
+          os.StartProcess($SINK, ...)
+
+      # exec.Command*: payload can be in different arg positions, but ensure execution method is called
+      - patterns:
+          - pattern: exec.Command($SINK, ...).$M()
+          - metavariable-regex:
+              metavariable: $M
+              regex: (?i)^(Start|Run|Output|CombinedOutput)$
+
+      - patterns:
+          - pattern: exec.Command($PROG, $SINK, ...).$M()
+          - metavariable-regex:
+              metavariable: $M
+              regex: (?i)^(Start|Run|Output|CombinedOutput)$
+
+      - patterns:
+          - pattern: exec.Command($PROG, $ARG1, $SINK, ...).$M()
+          - metavariable-regex:
+              metavariable: $M
+              regex: (?i)^(Start|Run|Output|CombinedOutput)$
+
+      - patterns:
+          - pattern: exec.Command($PROG, $ARG1, $ARG2, $SINK, ...).$M()
+          - metavariable-regex:
+              metavariable: $M
+              regex: (?i)^(Start|Run|Output|CombinedOutput)$
+
+      - patterns:
+          - pattern: exec.CommandContext($CTX, $SINK, ...).$M()
+          - metavariable-regex:
+              metavariable: $M
+              regex: (?i)^(Start|Run|Output|CombinedOutput)$
+
+      - patterns:
+          - pattern: exec.CommandContext($CTX, $PROG, $ARG1, $SINK, ...).$M()
+          - metavariable-regex:
+              metavariable: $M
+              regex: (?i)^(Start|Run|Output|CombinedOutput)$
+
+      - patterns:
+          - pattern: |
+              os.WriteFile($TEMP_FILE, $SINK, ...)
+              ...
+              exec.Command($EXEC, $TEMP_FILE, ...).$M()
+          - metavariable-regex:
+              metavariable: $M
+              regex: (?i)^(Start|Run|Output|CombinedOutput)$
+          - metavariable-regex:
+              metavariable: $TEMP_FILE
+              regex: (?i).*(\.sh|\.bat|\.ps1|\.py|\.js|\.rb|/tmp/|temp).*
