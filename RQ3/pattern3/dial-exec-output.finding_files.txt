@@ -1,0 +1,466 @@
+06kellyjac/botb
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/06kellyjac/botb/utils.go:145
+
+1d8/spreadermodules
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/1d8/spreadermodules/ssh-bruteforcer/ssh.go:120
+
+233Official/DailyNotesCode
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/233Official/DailyNotesCode/Security/EndPoint/Trojan/Go/ReverseShellAdvanced/main.go:192
+
+3030202/LazyOwn
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/3030202/LazyOwn/sessions/implant/implant_crypt.go:1227
+
+A-Archives-and-Forks/LadonGo
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/A-Archives-and-Forks/LadonGo/rexec/webshell.go:28
+
+AmirulAndalib/Platypus
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/AmirulAndalib/Platypus/cmd/platypus-agent/main.go:518
+
+AssassinUKG/go-reverse-shell
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/AssassinUKG/go-reverse-shell/revshell/shell.go:51
+
+CX330Blake/PhoenixC2
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/CX330Blake/PhoenixC2/phoenixc2/server/kits/http_reverse/payloads/go.go:186
+
+Carlosbogo/CMSMonitoring
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/Carlosbogo/CMSMonitoring/src/go/MONIT/monit.go:703
+
+D3Ext/maldev
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/D3Ext/maldev/src/redteam/revshell_linux.go:36
+
+Denis-REMACLE/Go-In-The-Shell
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/Denis-REMACLE/Go-In-The-Shell/GITS/gits.go:120
+
+DrissMou/ddev
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/DrissMou/ddev/pkg/globalconfig/global_config.go:410
+
+DuoSoftware/pe-review
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/DuoSoftware/pe-review/src/processengine/Common/common.go:112
+
+EntropyWorks/safe
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/EntropyWorks/safe/main.go:3229
+
+IIITDM-CS-CLUB/maps
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/IIITDM-CS-CLUB/maps/script.go:36
+
+IniZio/nexus
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/IniZio/nexus/packages/nexusd/internal/cli/doctor.go:86
+
+JanKoehnlein/ddev
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/JanKoehnlein/ddev/pkg/globalconfig/global_config.go:406
+
+Jrohy/sshcopy
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/Jrohy/sshcopy/server.go:140
+
+Ki365/Ki365
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/Ki365/Ki365/server/internal/kicad/gltf.go:145
+
+LifeAsFloat/GL-Blog
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/LifeAsFloat/GL-Blog/main.go:2780
+
+Lihu-PR/GL-Blog
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/Lihu-PR/GL-Blog/main.go:2780
+
+LiuChangFreeman/docker-initless
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/LiuChangFreeman/docker-initless/container.go:444
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/LiuChangFreeman/docker-initless/utils.go:175
+
+Lotterleben/aodvv2_test_management
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/Lotterleben/aodvv2_test_management/management.go:389
+
+LubyRuffy/gop
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/LubyRuffy/gop/gopShell/goshell.go:105
+
+MeowwBox/Platypus
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/MeowwBox/Platypus/termite.go:546
+
+Nishan8583/GoLang
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/Nishan8583/GoLang/4_Reverse_Shell/client.go:50
+
+OpenAtomFoundation/SmartIDE
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/OpenAtomFoundation/SmartIDE/cli/pkg/common/sshremote.go:1173
+
+PhoenixC2/PhoenixC2
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/PhoenixC2/PhoenixC2/phoenixc2/server/kits/http_reverse/payloads/go.go:186
+
+ProgramComputer/plugin-XDCC
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/ProgramComputer/plugin-XDCC/xdcc/xdcc.go:325
+
+RITRedteam/DiscordGo
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/RITRedteam/DiscordGo/cmd/agent/main.go:282
+
+Sesame2/gotun
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/Sesame2/gotun/internal/tun/tun.go:608
+
+SmugZombie/GO
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/SmugZombie/GO/reverse_shell/reverse_shell_unix.go:57
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/SmugZombie/GO/reverse_shell/reverse_shell_win.go:57
+
+SomeBlackMagic/vault-cli-manager
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/SomeBlackMagic/vault-cli-manager/cmd/admin.go:736
+
+SwetabhOfficial/CHAOS
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/SwetabhOfficial/CHAOS/src/template/MacOS.go:163
+
+TSavo/GoDrive
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/TSavo/GoDrive/main.go:459
+
+ThomYohan/build
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/ThomYohan/build/cmd/buildlet/buildlet.go:1668
+
+TriOda26/Ki365
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/TriOda26/Ki365/server/internal/kicad/gltf.go:145
+
+Tropul/SmartIDE
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/Tropul/SmartIDE/cli/pkg/common/sshremote.go:1173
+
+WHOLETTHEDOG-OUT/LadonGo
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/WHOLETTHEDOG-OUT/LadonGo/rexec/webshell.go:28
+
+WangYihang/Platypus
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/WangYihang/Platypus/cmd/platypus-agent/main.go:518
+
+aN0mad/gobeacon
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/aN0mad/gobeacon/gobeacon.go:56
+
+acidburn0zzz/CI-Google-AutoBuild-Doc
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/acidburn0zzz/CI-Google-AutoBuild-Doc/cmd/buildlet/buildlet.go:1615
+
+adambabik/dockertest
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/adambabik/dockertest/container.go:71
+
+alexsaezm/delve
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/alexsaezm/delve/pkg/proc/gdbserial/gdbserver.go:2251
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/alexsaezm/delve/service/rpc2/client.go:679
+
+amit-pandia/go
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/amit-pandia/go/goes/cmd/tempd/tempd.go:153
+
+antoineco/delve
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/antoineco/delve/pkg/proc/gdbserial/gdbserver.go:2251
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/antoineco/delve/service/rpc2/client.go:679
+
+araalinetworks/api
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/araalinetworks/api/Araali Tools/goshelly-client/basic/basic.go:148
+
+arbales/postforward
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/arbales/postforward/postforward.go:113
+
+aristanetworks/build
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/aristanetworks/build/cmd/buildlet/buildlet.go:1615
+
+asjdf/wails-dlv
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/asjdf/wails-dlv/main.go:273
+
+beringresearch/macpine
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/beringresearch/macpine/qemu/ops.go:345
+
+beyoungV/LadonGo
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/beyoungV/LadonGo/rexec/webshell.go:28
+
+bookofdom/gateway
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/bookofdom/gateway/_vendor/src/github.com/ory-am/dockertest/container.go:71
+
+bravery9/CHAOS
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/bravery9/CHAOS/src/template/MacOS.go:163
+
+brompwnie/botb
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/brompwnie/botb/utils.go:145
+
+calebmatsick/C3
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/calebmatsick/C3/cmd/c3client/c3client.go:53
+
+classicvalues/build-1
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/classicvalues/build-1/cmd/buildlet/buildlet.go:1662
+
+conner/elktail-old
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/conner/elktail-old/sshtunnel.go:110
+
+cronosnull/CMSMonitoring
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/cronosnull/CMSMonitoring/src/go/MONIT/monit.go:511
+
+cxfcxf/carbonmax
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/cxfcxf/carbonmax/carbonmax.go:65
+
+cyppe/ddev
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/cyppe/ddev/pkg/globalconfig/global_config.go:811
+
+daniel-garcia/shipyard
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/daniel-garcia/shipyard/shoreman.go:70
+
+darwinz/delve
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/darwinz/delve/pkg/proc/gdbserial/gdbserver.go:2251
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/darwinz/delve/service/rpc2/client.go:679
+
+daviddob/safe
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/daviddob/safe/main.go:3129
+
+ddev/ddev
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/ddev/ddev/pkg/globalconfig/global_config.go:888
+
+deniszh/consul-backup
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/deniszh/consul-backup/main.go:60
+
+dennisameling/ddev
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/dennisameling/ddev/pkg/globalconfig/global_config.go:785
+
+derekparker/delve
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/derekparker/delve/pkg/proc/gdbserial/gdbserver.go:2251
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/derekparker/delve/service/rpc2/client.go:679
+
+diegoe/ddev
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/diegoe/ddev/pkg/globalconfig/global_config.go:410
+
+diljith369/AvBuster
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/diljith369/AvBuster/src/basefiles/mask.go:88
+
+diljith369/mask
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/diljith369/mask/src/basefile/mask.go:135
+
+diljith369/reversehellgo
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/diljith369/reversehellgo/reverseshell.go:86
+
+dmore/botb-red-analysis-container-exploit
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/dmore/botb-red-analysis-container-exploit/utils.go:145
+
+dmwm/CMSMonitoring
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/dmwm/CMSMonitoring/src/go/MONIT/monit.go:703
+
+dolfly/gotun
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/dolfly/gotun/internal/tun/tun.go:608
+
+eleonel/ddev
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/eleonel/ddev/pkg/globalconfig/global_config.go:410
+
+emmaunel/DiscordGo
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/emmaunel/DiscordGo/cmd/agent/main.go:282
+
+flagbit/ddev
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/flagbit/ddev/pkg/globalconfig/global_config.go:406
+
+fmoisan-goto/elktail
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/fmoisan-goto/elktail/sshtunnel.go:110
+
+fonzarely/macpine
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/fonzarely/macpine/qemu/ops.go:345
+
+gerardocorea/safe
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/gerardocorea/safe/main.go:3051
+
+gh-osama/dockertest
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/gh-osama/dockertest/container.go:71
+
+glycerine/dockertest
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/glycerine/dockertest/container.go:71
+
+golderperson/coco
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/golderperson/coco/ssss/sss.go:65
+
+gpjdean/DeanTech
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/gpjdean/DeanTech/backend/services/kvm_service.go:742
+
+greggles/ddev
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/greggles/ddev/pkg/globalconfig/global_config.go:410
+
+grisuno/LazyOwn
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/grisuno/LazyOwn/sessions/implant/implant_crypt.go:1227
+
+heddn/ddev
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/heddn/ddev/pkg/globalconfig/global_config.go:770
+
+helloworlddan/limones
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/helloworlddan/limones/main.go:315
+
+hroyrh/etcd
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/hroyrh/etcd/tools/v2benchmark/etcd_load.go:331
+
+ideas-design/SmartIDE
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/ideas-design/SmartIDE/cli/pkg/common/sshremote.go:1159
+
+jtia123/LadonGo
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/jtia123/LadonGo/rexec/webshell.go:28
+
+keremavci/cf-bulk-ldap-import
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/keremavci/cf-bulk-ldap-import/main.go:129
+
+kexws/Platypus
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/kexws/Platypus/cmd/platypus-agent/main.go:518
+
+killercd/maldev
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/killercd/maldev/src/redteam/revshell_linux.go:36
+
+knuurr/golang-auth-jwt-small-playground
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/knuurr/golang-auth-jwt-small-playground/main.go:132
+
+l3aalteshuva/PhoenixC2
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/l3aalteshuva/PhoenixC2/phoenixc2/server/kits/http_reverse/payloads/go.go:186
+
+lowprivshighhopes/botb
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/lowprivshighhopes/botb/utils.go:145
+
+mauicode26/ddev-fork
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/mauicode26/ddev-fork/pkg/globalconfig/global_config.go:770
+
+mav8557/DiscordGo
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/mav8557/DiscordGo/cmd/agent/main.go:263
+
+mayder/aiceberg_agent
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/mayder/aiceberg_agent/internal/platform/collectors/sysmetrics/sysmetrics.go:1199
+
+mbrukman/go-build
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/mbrukman/go-build/cmd/buildlet/buildlet.go:1659
+
+merlinepedra/PLATYPUS
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/merlinepedra/PLATYPUS/cmd/termite/main.go:545
+
+mohammadobaid1/tineola
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/mohammadobaid1/tineola/chaincodes/src/tineolacc/tineolacc.go:220
+
+montge/stratux
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/montge/stratux/main/pong.go:246
+
+moritzkrauss/ddev
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/moritzkrauss/ddev/pkg/globalconfig/global_config.go:406
+
+n3mu3lw/Delta
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/n3mu3lw/Delta/delta.go:182
+
+negibokken/golang-training
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/negibokken/golang-training/ch08/ex02/commands.go:306
+
+oldzhu/delve
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/oldzhu/delve/pkg/proc/gdbserial/gdbserver.go:2251
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/oldzhu/delve/service/rpc2/client.go:679
+
+olivierh59500/CHAOS
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/olivierh59500/CHAOS/src/template/MacOS.go:163
+
+orthros/build
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/orthros/build/cmd/buildlet/buildlet.go:1615
+
+parpat/distributed-systems
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/parpat/distributed-systems/p2p/node.go:142
+
+piaoyun0223/LadonGo
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/piaoyun0223/LadonGo/rexec/webshell.go:28
+
+pinterb/dockertest
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/pinterb/dockertest/container.go:71
+
+portante/elktail
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/portante/elktail/sshtunnel.go:110
+
+prateek/elktail
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/prateek/elktail/sshtunnel.go:110
+
+punkrock34/ddev
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/punkrock34/ddev/pkg/globalconfig/global_config.go:888
+
+quipper/elktail
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/quipper/elktail/sshtunnel.go:110
+
+racconcoin/DiscordGo
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/racconcoin/DiscordGo/cmd/agent/main.go:282
+
+rashamalek/macpine
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/rashamalek/macpine/qemu/ops.go:187
+
+renovate-bot/ddev
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/renovate-bot/ddev/pkg/globalconfig/global_config.go:406
+
+restanrm/gans
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/restanrm/gans/cmd/scan.go:99
+
+rgrsoucy/safe
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/rgrsoucy/safe/main.go:2944
+
+rodrigorfk/go-ldap-google-authenticator-initializer
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/rodrigorfk/go-ldap-google-authenticator-initializer/main.go:85
+
+run-my-job/Platypus
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/run-my-job/Platypus/cmd/platypus-agent/main.go:518
+
+setharnold/lxd
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/setharnold/lxd/lxd/instance/drivers/driver_qemu.go:6221
+
+shintaoku/CHAOS
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/shintaoku/CHAOS/src/template/MacOS.go:163
+
+shizonic/CHAOS
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/shizonic/CHAOS/src/template/MacOS.go:163
+
+sonnt85/gosutils
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/sonnt85/gosutils/simplessh/client.go:151
+
+stasadev/ddev
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/stasadev/ddev/pkg/globalconfig/global_config.go:888
+
+tarruda/lxd
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/tarruda/lxd/lxd/instance/drivers/driver_qemu.go:6303
+
+tfpgh/treehacks-botnet-go
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/tfpgh/treehacks-botnet-go/cmd/bot/bot.go:89
+
+thehandsomezebra/safe
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/thehandsomezebra/safe/main.go:3217
+
+thepcn3rd/DiscordGo
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/thepcn3rd/DiscordGo/cmd/agent/main.go:213
+
+thomasdiluccio/ddev
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/thomasdiluccio/ddev/pkg/globalconfig/global_config.go:406
+
+thomasmitchell/safe
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/thomasmitchell/safe/main.go:3229
+
+tineola/tineola
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/tineola/tineola/chaincodes/src/tineolacc/tineolacc.go:220
+
+tubular/consul-bak
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/tubular/consul-bak/utils.go:88
+
+tucommenceapousser/PhoenixC2
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/tucommenceapousser/PhoenixC2/phoenixc2/server/kits/http_reverse/payloads/go.go:186
+
+tuxillo/build
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/tuxillo/build/cmd/buildlet/buildlet.go:1615
+
+typesanitizer/happygo
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/typesanitizer/happygo/delve/pkg/proc/gdbserial/gdbserver.go:2251
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/typesanitizer/happygo/delve/service/rpc2/client.go:679
+
+u5surf/origin-crawler
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/u5surf/origin-crawler/main.go:61
+
+undoio/delve
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/undoio/delve/pkg/proc/gdbserial/gdbserver.go:2179
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/undoio/delve/service/rpc2/client.go:679
+
+victorcete/redis-scouter
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/victorcete/redis-scouter/utils.go:41
+
+vishal9066/hakq
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/vishal9066/hakq/client.go:83
+
+watsonso/build
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/watsonso/build/cmd/buildlet/buildlet.go:1603
+
+wentaojin/sshcopy
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/wentaojin/sshcopy/server.go:140
+
+x41x41x90/tcp
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/x41x41x90/tcp/cmd/client/main.go:85
+
+xiaprojects/roastbeef
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/xiaprojects/roastbeef/main/pong.go:244
+
+yJunS/build
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/yJunS/build/cmd/buildlet/buildlet.go:1662
+
+yididiel7/delve
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/yididiel7/delve/pkg/proc/gdbserial/gdbserver.go:2251
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/yididiel7/delve/service/rpc2/client.go:679
+
+zoni/postforward
+  /Volumes/PortableSSD/regex_query_repos/go-mal/pattern4/github.com/zoni/postforward/postforward.go:110
+

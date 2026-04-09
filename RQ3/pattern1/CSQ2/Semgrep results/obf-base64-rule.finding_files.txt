@@ -1,0 +1,8 @@
+/Volumes/PortableSSD/regex_query_repos/go-mal/pattern2/github.com/DIYAstro/SV241-Unbound/AscomAlpacaProxy/internal/systray/systray.go
+/Volumes/PortableSSD/regex_query_repos/go-mal/pattern2/github.com/UncleChair/Overflows/backend/internal/cmd/standalone.go
+/Volumes/PortableSSD/regex_query_repos/go-mal/pattern2/github.com/V4-Company/midaz/components/mdz/pkg/cmd/login/browser.go
+/Volumes/PortableSSD/regex_query_repos/go-mal/pattern2/github.com/jrockr/midaz/components/mdz/pkg/cmd/login/browser.go
+/Volumes/PortableSSD/regex_query_repos/go-mal/pattern2/github.com/kokukuma/siwa-cli/cmd/siwacli/main.go
+/Volumes/PortableSSD/regex_query_repos/go-mal/pattern2/github.com/puppetlabs/kreamlet/client/run_darwin.go
+/Volumes/PortableSSD/regex_query_repos/go-mal/pattern2/github.com/selva-krishnan/kreamlet/client/run_darwin.go
+/Volumes/PortableSSD/regex_query_repos/go-mal/pattern2/github.com/teranos/QNTX/cmd/qntx/commands/server.go

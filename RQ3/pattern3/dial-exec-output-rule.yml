@@ -1,0 +1,25 @@
+rules:
+  - id: go-network-input-to-exec-command
+    languages: [go]
+    severity: ERROR
+    message: Data read from a network connection flows into exec.Command
+    mode: taint
+    options:
+      interfile: true
+    metadata:
+      description: "Tracks data read from network readers into exec.Command."
+
+    pattern-sources:
+      - pattern: bufio.NewReader(...).ReadString(...)
+      - pattern: $READER.ReadString(...)
+
+    pattern-propagators:
+      - pattern: $ARGS, $ERR := shellwords.Parse($MSG)
+        from: $MSG
+        to: $ARGS
+      - pattern: $ARGS, $ERR := shellwords.Parse(strings.TrimSuffix($MSG, ...))
+        from: $MSG
+        to: $ARGS
+
+    pattern-sinks:
+      - pattern: exec.Command(...)

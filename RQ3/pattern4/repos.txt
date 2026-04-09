@@ -1,0 +1,12 @@
+search/advanced
+erbesharat/godpaste
+ditsuke/dpaste-cli
+gitter-badger/paste
+udit2303/P2P-sharing-app
+thoas/letitcrash
+cduta/sharenotes
+KenKaiii/pocket-agent-cli
+lama-assaf/Dizrupt-Agent-CLI
+cmars/antipaste
+amosbird/paste
+nao1215/onionlint
